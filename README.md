@@ -7,7 +7,9 @@
 </div>
 
 # Bug_Storm - Game built on AK Embedded Base Kit
-
+<p align="center">
+https://github.com/user-attachments/assets/5f5940bc-6679-49d3-95c9-15b6f1957629
+</p>
 <p align="center">
   <img src="resources/images/screens/banner_game_bug_storm.svg" alt="Bug_Storm" width="100%"/>
 </p>
