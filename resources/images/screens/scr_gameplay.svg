@@ -1,0 +1,11 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="744" height="360" viewBox="0 0 124 60">
+  <rect width="124" height="60" fill="#000"/><g fill="#fff" stroke="#fff" stroke-width=".45" shape-rendering="crispEdges">
+  <text x="1" y="6" font-family="monospace" font-size="6" stroke="none">S:180</text><text x="49" y="6" font-family="monospace" font-size="6" stroke="none">W:2</text><text x="73" y="6" font-family="monospace" font-size="6" stroke="none">P:3</text><text x="99" y="6" font-family="monospace" font-size="6" stroke="none">V:3</text><line x1="0" y1="8" x2="123" y2="8"/>
+  <g id="b"><rect x="3" y="1" width="4" height="5"/><rect x="2" y="0" width="1" height="1"/><rect x="7" y="0" width="1" height="1"/><rect x="4" y="2" width="1" height="1" fill="#000"/><rect x="6" y="2" width="1" height="1" fill="#000"/><path d="M3 2 0 0v2l3 2zm4 0 3-2v2L7 4z"/><rect x="2" y="6" width="2" height="1"/><rect x="6" y="6" width="2" height="1"/></g>
+  <use href="#b" x="14" y="12"/><use href="#b" x="30" y="12"/><use href="#b" x="46" y="12"/><use href="#b" x="62" y="12"/><use href="#b" x="78" y="12"/><use href="#b" x="94" y="12"/>
+  <use href="#b" x="14" y="23"/><use href="#b" x="30" y="23"/><use href="#b" x="46" y="23"/><use href="#b" x="62" y="23"/><use href="#b" x="78" y="23"/><use href="#b" x="94" y="23"/>
+  <circle cx="42" cy="41" r="1" fill="none"/><rect x="60" y="38" width="2" height="4"/><rect x="65" y="36" width="2" height="4"/><rect x="70" y="38" width="2" height="4"/>
+  <rect x="91" y="40" width="5" height="5" fill="none"/><rect x="93" y="42" width="1" height="1"/>
+  <path d="M62 52 57 59h10z"/><rect x="61" y="55" width="3" height="4"/></g>
+</svg>
+
