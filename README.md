@@ -7,12 +7,14 @@
 </div>
 
 # Bug_Storm - Game built on AK Embedded Base Kit
-<div class="video-wrapper">
+<p align="center">
   <video
-    src="https://github.com/user-attachments/assets/b9ed6d10-96ce-4af0-aede-644b85b5d0e0"
-    width="800">
+    src="https://github.com/user-attachments/assets/5f5940bc-6679-49d3-95c9-15b6f1957629"
+    controls
+    width="800"
+    style="max-width: 100%; transform: rotate(180deg);">
   </video>
-</div>
+</p>
 
 <p align="center">
   <img src="resources/images/screens/banner_game_bug_storm.svg" alt="Bug_Storm" width="100%"/>
