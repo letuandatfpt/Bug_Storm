@@ -9,7 +9,7 @@
 # Bug_Storm - Game built on AK Embedded Base Kit
 <p align="center">
   <video
-    src="https://github.com/user-attachments/assets/c69b9169-02ae-44f8-99ff-03783a824de6"
+    src="https://github.com/user-attachments/assets/cace2061-e597-41b6-9cb5-8d4b5ea76f48"
     controls
     width="800"
     style="max-width: 100%; transform: rotate(180deg);">
