@@ -9,32 +9,15 @@
 # Bug_Storm - Game built on AK Embedded Base Kit
 <div class="video-wrapper">
   <video
-    src="https://github.com/user-attachments/assets/5f5940bc-6679-49d3-95c9-15b6f1957629"
+    src="
+
+https://github.com/user-attachments/assets/b9ed6d10-96ce-4af0-aede-644b85b5d0e0
+
+"
     controls>
   </video>
 </div>
 
-<style>
-.video-wrapper {
-  width: 720px;
-  height: 405px;
-  margin: 0 auto;
-  overflow: hidden;
-  position: relative;
-}
-
-.video-wrapper video {
-  width: 405px;
-  height: 720px;
-
-  position: absolute;
-  top: 50%;
-  left: 50%;
-
-  transform: translate(-50%, -50%) rotate(90deg);
-  object-fit: contain;
-}
-</style>
 <p align="center">
   <img src="resources/images/screens/banner_game_bug_storm.svg" alt="Bug_Storm" width="100%"/>
 </p>
